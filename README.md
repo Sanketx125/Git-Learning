@@ -1,4 +1,4 @@
-#  Add Repo. name at here
+# Git_Learning
 my_First_Repository  
 
 ( Learning purpose )
